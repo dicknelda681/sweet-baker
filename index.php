@@ -132,11 +132,11 @@
                                     </div>
                                  </div>
                                  <div class="cart-inline-footer">
-                                    <div class="group-sm"><a class="button button-default-outline-2 button-zakaria" href="cart-page.html">Go to cart</a><a class="button button-primary button-zakaria" href="checkout.html">Checkout</a></div>
+                                    <div class="group-sm"><a class="button button-default-outline-2 button-zakaria" href="">Go to cart</a><a class="button button-primary button-zakaria" href="">Checkout</a></div>
                                  </div>
                               </div>
                            </div>
-                           <a class="rd-navbar-basket rd-navbar-basket-mobile fl-bigmug-line-shopping202 rd-navbar-fixed-element-2" href="cart-page.html"><span>2</span></a>
+                           <a class="rd-navbar-basket rd-navbar-basket-mobile fl-bigmug-line-shopping202 rd-navbar-fixed-element-2" href=""><span>2</span></a>
                         </div>
                      </div>
                   </div>
@@ -276,7 +276,7 @@
                               <span class="product-badge product-badge-sale">Sale</span>
                               <div class="product-button-wrap">
                                  <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-search74" href=""></a></div>
-                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="cart-page.html"></a></div>
+                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href=""></a></div>
                               </div>
                            </article>
                         </div>
@@ -292,7 +292,7 @@
                               </div>
                               <div class="product-button-wrap">
                                  <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-search74" href=""></a></div>
-                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="cart-page.html"></a></div>
+                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href=""></a></div>
                               </div>
                            </article>
                         </div>
@@ -309,7 +309,7 @@
                               <span class="product-badge product-badge-new">New</span>
                               <div class="product-button-wrap">
                                  <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-search74" href=""></a></div>
-                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="cart-page.html"></a></div>
+                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href=""></a></div>
                               </div>
                            </article>
                         </div>
@@ -325,7 +325,7 @@
                               </div>
                               <div class="product-button-wrap">
                                  <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-search74" href=""></a></div>
-                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="cart-page.html"></a></div>
+                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href=""></a></div>
                               </div>
                            </article>
                         </div>
@@ -343,7 +343,7 @@
                               <span class="product-badge product-badge-sale">Sale</span>
                               <div class="product-button-wrap">
                                  <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-search74" href=""></a></div>
-                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="cart-page.html"></a></div>
+                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href=""></a></div>
                               </div>
                            </article>
                         </div>
@@ -359,7 +359,7 @@
                               </div>
                               <div class="product-button-wrap">
                                  <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-search74" href=""></a></div>
-                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="cart-page.html"></a></div>
+                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href=""></a></div>
                               </div>
                            </article>
                         </div>
@@ -376,7 +376,7 @@
                               <span class="product-badge product-badge-new">New</span>
                               <div class="product-button-wrap">
                                  <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-search74" href=""></a></div>
-                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="cart-page.html"></a></div>
+                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href=""></a></div>
                               </div>
                            </article>
                         </div>
@@ -392,7 +392,7 @@
                               </div>
                               <div class="product-button-wrap">
                                  <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-search74" href=""></a></div>
-                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="cart-page.html"></a></div>
+                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href=""></a></div>
                               </div>
                            </article>
                         </div>
@@ -410,7 +410,7 @@
                               <span class="product-badge product-badge-sale">Sale</span>
                               <div class="product-button-wrap">
                                  <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-search74" href=""></a></div>
-                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="cart-page.html"></a></div>
+                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href=""></a></div>
                               </div>
                            </article>
                         </div>
@@ -426,7 +426,7 @@
                               </div>
                               <div class="product-button-wrap">
                                  <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-search74" href=""></a></div>
-                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="cart-page.html"></a></div>
+                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href=""></a></div>
                               </div>
                            </article>
                         </div>
@@ -443,7 +443,7 @@
                               <span class="product-badge product-badge-new">New</span>
                               <div class="product-button-wrap">
                                  <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-search74" href=""></a></div>
-                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="cart-page.html"></a></div>
+                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href=""></a></div>
                               </div>
                            </article>
                         </div>
@@ -459,7 +459,7 @@
                               </div>
                               <div class="product-button-wrap">
                                  <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-search74" href=""></a></div>
-                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="cart-page.html"></a></div>
+                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href=""></a></div>
                               </div>
                            </article>
                         </div>
@@ -477,7 +477,7 @@
                               <span class="product-badge product-badge-sale">Sale</span>
                               <div class="product-button-wrap">
                                  <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-search74" href=""></a></div>
-                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="cart-page.html"></a></div>
+                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href=""></a></div>
                               </div>
                            </article>
                         </div>
@@ -493,7 +493,7 @@
                               </div>
                               <div class="product-button-wrap">
                                  <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-search74" href=""></a></div>
-                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="cart-page.html"></a></div>
+                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href=""></a></div>
                               </div>
                            </article>
                         </div>
@@ -510,7 +510,7 @@
                               <span class="product-badge product-badge-new">New</span>
                               <div class="product-button-wrap">
                                  <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-search74" href=""></a></div>
-                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="cart-page.html"></a></div>
+                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href=""></a></div>
                               </div>
                            </article>
                         </div>
@@ -526,7 +526,7 @@
                               </div>
                               <div class="product-button-wrap">
                                  <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-search74" href=""></a></div>
-                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href="cart-page.html"></a></div>
+                                 <div class="product-button"><a class="button button-primary-2 button-zakaria fl-bigmug-line-shopping202" href=""></a></div>
                               </div>
                            </article>
                         </div>
@@ -1117,14 +1117,14 @@ We focus on a warm, caring atmosphere that keeps our team happy and our customer
                         <h5 class="footer-modern-title">Quick Links</h5>
                         <ul class="footer-modern-list footer-modern-list-2 d-sm-inline-block d-md-block">
                            <li><a href="#">About Us</a></li>
-                           <li><a href="our-team.html">Our Team</a></li>
+                           <li><a href="">Our Team</a></li>
                            <li><a href="">Shop</a></li>
                            <li><a href="#">Pricing</a></li>
                            <li><a href="#">FAQ</a></li>
                            <li><a href="">Contact Us</a></li>
-                           <li><a href="what-we-offer.html">What We Offer</a></li>
-                           <li><a href="grid-blog.html">Our Blog</a></li>
-                           <li><a href="testimonials.html">Testimonials</a></li>
+                           <li><a href="">What We Offer</a></li>
+                           <li><a href="">Our Blog</a></li>
+                           <li><a href="">Testimonials</a></li>
                            <li><a href="#">Baking School</a></li>
                            <li><a href="#">Our Recipes</a></li>
                         </ul>
@@ -1164,7 +1164,7 @@ We focus on a warm, caring atmosphere that keeps our team happy and our customer
             </div>
             <div class="footer-modern-panel text-center">
                <div class="container">
-                  <p class="rights"><span>©&nbsp;</span><span class="copyright-year">2026</span><span>.&nbsp;</span><span>Sweet Baker</span><span>.&nbsp;</span><span>All Rights Reserved</span><span>.&nbsp;</span><a href="privacy-policy.html">Privacy Policy.</a></p>
+                  <p class="rights"><span>©&nbsp;</span><span class="copyright-year">2026</span><span>.&nbsp;</span><span>Sweet Baker</span><span>.&nbsp;</span><span>All Rights Reserved</span><span>.&nbsp;</span><a href="">Privacy Policy.</a></p>
                </div>
             </div>
          </footer>
