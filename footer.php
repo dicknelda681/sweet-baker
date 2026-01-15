@@ -38,9 +38,9 @@
                            <li><a href="">Contact Us</a></li>
                            <li><a href="">What We Offer</a></li>
                            <li><a href="">Our Blog</a></li>
-                           <li><a href="">Testimonials</a></li>
-                           <li><a href="#">Baking School</a></li>
-                           <li><a href="/refund">refund</a></li>
+                           <li><a href="/disclaimer">Disclaimer</a></li>
+                           <li><a href="/privacy-policy">Privacy Policy</a></li>
+                           <li><a href="/refund">Refund</a></li>
                         </ul>
                      </div>
                      <div class="col-sm-6 col-md-5 col-lg-4 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
