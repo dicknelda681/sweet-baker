@@ -2,7 +2,7 @@
 <html class="wide wow-animation ios iphone mobile portrait rd-navbar-static-linked" lang="en">
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-      <title>Sweet Baker – Fresh Cakes, Custom Desserts & Bakery for Every Occasion</title>
+      <title>Sweet Baker – Fresh Cakes, Custom Desserts & Bakery for Every Occasions</title>
       <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <link rel="stylesheet" type="text/css" href="./assets/css2.css">
