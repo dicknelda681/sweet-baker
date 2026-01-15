@@ -80,7 +80,7 @@ s0.parentNode.insertBefore(s1,s0);
                         <div class="rd-navbar-nav-wrap toggle-original-elements">
                            <!-- RD Navbar Nav-->
                            <ul class="rd-navbar-nav">
-                              <li class="rd-nav-item active"><a class="rd-nav-link" href="#home">Home</a></li>
+                              <li class="rd-nav-item active"><a class="rd-nav-link" href="/index">Home</a></li>
                               <li class="rd-nav-item"><a class="rd-nav-link" href="#about">About Us</a></li> 
                               <li class="rd-nav-item"><a class="rd-nav-link" href="#offer">What We Offer</a></li>
                               <li class="rd-nav-item"><a class="rd-nav-link" href="#product">Product</a></li>
